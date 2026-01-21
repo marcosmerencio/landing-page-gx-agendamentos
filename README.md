@@ -55,5 +55,5 @@ UX Focus: Implementação de estados de hover e transições suaves para evitar 
 # ✒️ Autor
 Marcos Merencio / Desenvolvedor Web (em formação)
 
-📄 Licença
+# 📄 Licença
 Este projeto é livre para fins de estudo e portfólio.
