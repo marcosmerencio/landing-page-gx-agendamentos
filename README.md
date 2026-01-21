@@ -1,4 +1,4 @@
-# 🩺 GX Agendamentos | Gestão Inteligente para Clínicas
+# 🩺 Landing Page | GX Agendamentos
 <img width="1891" height="903" alt="image" src="https://github.com/user-attachments/assets/97b29d95-9121-4d09-9b05-29a22f0a3745" />
 Uma landing page moderna, elegante e de alta conversão desenvolvida para a GX Agendamentos. O projeto foca em soluções de gestão para clínicas de fisioterapia e massoterapia, apresentando funcionalidades como prontuários digitais, agendamento online e controle financeiro através de uma interface intuitiva.
 
