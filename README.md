@@ -53,7 +53,7 @@ SEO & Social: Inclusão de Meta Tags e Open Graph para compartilhamento otimizad
 UX Focus: Implementação de estados de hover e transições suaves para evitar quebras visuais bruscas.
 
 # ✒️ Autor
-Marcos Merencio / Desenvolvedor Web (em formação)
+Marcos Merencio | Desenvolvedor Web (em formação)
 
 # 📄 Licença
 Este projeto é livre para fins de estudo e portfólio.
